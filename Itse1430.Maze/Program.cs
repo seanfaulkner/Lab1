@@ -175,7 +175,7 @@ namespace Itse1430.Maze
                             case 1:
                             location = 6;
                             roomname = "Coat room ";
-                            Console.WriteLine ("There is a door to the north and the south.");
+                            Console.WriteLine ("There is a door to the north, south and the east.");
                             break;
                             case 2:
                             break;
@@ -393,7 +393,7 @@ namespace Itse1430.Maze
                             case 7:
                             location = 6;
                             roomname = "Coat room ";
-                            Console.WriteLine ("There is a door to the north and the south.");
+                            Console.WriteLine ("There is a door to the north, south and the east.");
                             break;
                             case 8:
                             break;
